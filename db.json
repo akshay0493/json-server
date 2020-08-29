@@ -1,9 +1,4 @@
-{
-  "total_results": 2735,
-  "page": 1,
-  "per_page": 6,
-  "photos": [
-    {
+ {
       "id": 238118,
       "width": 4000,
       "height": 2682,
@@ -123,6 +118,3 @@
       },
       "liked": false
     }
-  ],
-  "next_page": "https://api.pexels.com/v1/search/?page=2&per_page=6&query=laptop"
-}
