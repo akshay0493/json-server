@@ -1,9 +1,9 @@
 {
   "posts": [
-    { "id": 1, "title": "json-server1", "author": "typicode1" }
+    { "id": 1, "title": "json-server1", "author": "typicode1", "o": "n" }
   ],
   "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
+    { "id": 1, "body": "some comment", "postId": 1, "s": "a" }
   ],
   "akshay": [
     { "id":2, "title": "cheetah", "game": 12, "bodypart": "height", "khelId": 1 }
