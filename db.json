@@ -1,12 +1,12 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server1", "author": "typicode1", "o": "n" }
+  "sujay": [
+    { "id": 1, "title": "json-server1", "author": "typicode1" }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1, "s": "a" }
+  "vijay": [
+    { "id": 1, "body": "some comment" }
   ],
   "akshay": [
-    { "id":2, "title": "cheetah", "game": 12, "bodypart": "height", "khelId": 1 }
+    { "id":2, "title": "cheetah" }
     ]
 }
 
